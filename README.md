@@ -110,7 +110,14 @@ http://127.0.0.1:8000
 GitHub:
 https://github.com/garvmakhija
 
-
 ---
+
+## Live Demo
+
+Frontend:
+https://waterborne-disease-ai.vercel.app/
+
+Backend API:
+https://waterborne-disease-prediction-7ds0.onrender.com/docs
 
 ⭐ If you found this project useful, consider giving it a star!
