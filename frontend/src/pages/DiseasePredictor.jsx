@@ -27,10 +27,7 @@ function DiseasePredictor() {
 
   const predictDisease = async () => {
     try {
-      const response = await axios.post(
-        "http://127.0.0.1:8000/predict-disease",
-        formData
-      );
+      const response = await API.post("/predict-disease", formData);
 
       setResult(response.data.predicted_disease);
       setConfidence(response.data.confidence);
