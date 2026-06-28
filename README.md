@@ -110,8 +110,6 @@ http://127.0.0.1:8000
 GitHub:
 https://github.com/garvmakhija
 
-LinkedIn:
-(Add your LinkedIn profile here)
 
 ---
 
